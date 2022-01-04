@@ -1,5 +1,5 @@
 # HomeAwayMonitor
-Monitor existence of certain device in LAN and send the status to SQL.
+Monitor presence of certain device in LAN and send the status to SQL.
 
 Refer to following for more detail of this project.(in japanese)
 

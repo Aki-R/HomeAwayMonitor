@@ -13,7 +13,7 @@ class State(Enum):
 
 if __name__ == "__main__":
 
-    # Get LAN State to check existence of IPhone
+    # Get LAN State to check presence of IPhone
     arp_result = subprocess.getoutput('sudo arp-scan -I eth0 -l')
     # Show arp-scan result
     print(arp_result)
